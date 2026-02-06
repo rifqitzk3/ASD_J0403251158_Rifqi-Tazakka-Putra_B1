@@ -1,9 +1,0 @@
-BRG001,Pulpen,120
-BRG002,Buku Tulis,85
-BRG003,Penghapus,60
-BRG004,Pensil,150
-BRG005,Spidol,40
-BRG006,Penggaris,70
-BRG007,Stabilo,55
-BRG008,Map Plastik,90
-BRG009,Icikiwir,7
